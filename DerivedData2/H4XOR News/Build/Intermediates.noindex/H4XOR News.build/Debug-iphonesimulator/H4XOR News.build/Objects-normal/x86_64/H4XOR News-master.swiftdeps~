@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "e68590e3cef633c7b781fbf597577fab"
+build_time: [1610387488, 726502000]
+inputs:
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/H4XOR News/H4XOR News/Models/PostData.swift": [1610384444, 753427851]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/H4XOR News/H4XOR News/Views/DetailView.swift": [1610387361, 274519929]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/H4XOR News/H4XOR News/Models/NetworkManager.swift": [1610384365, 250551332]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/H4XOR News/H4XOR News/AppDelegate.swift": [1609778864, 113022577]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/H4XOR News/H4XOR News/SceneDelegate.swift": [1609778864, 119677409]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/H4XOR News/H4XOR News/Views/ContentView.swift": [1610386435, 800134063]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/H4XOR News/H4XOR News/Views/WebView.swift": [9223372036, 854775807]

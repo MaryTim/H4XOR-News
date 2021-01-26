@@ -5,6 +5,41 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>B7AD8C78-E03E-41DA-934F-B883A1D58FED</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B7AD8C78-E03E-41DA-934F-B883A1D58FED.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>H4XOR News project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>H4XOR News</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run H4XOR News</string>
+			<key>timeStartedRecording</key>
+			<real>632080172.42056406</real>
+			<key>timeStoppedRecording</key>
+			<real>632080493.06210697</real>
+			<key>title</key>
+			<string>Run H4XOR News</string>
+			<key>uniqueIdentifier</key>
+			<string>B7AD8C78-E03E-41DA-934F-B883A1D58FED</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
